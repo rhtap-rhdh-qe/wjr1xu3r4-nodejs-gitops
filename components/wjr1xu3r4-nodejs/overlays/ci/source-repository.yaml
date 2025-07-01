@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wjr1xu3r4-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wjr1xu3r4-nodejs
